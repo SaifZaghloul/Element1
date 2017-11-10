@@ -1,6 +1,6 @@
 # \<hello-element\>
 
-pass a name in name attribute to this element and it will print &#34;Hello &#34; concatenated to the name you passed as attribute
+Pass a name in name attribute to this element and it will print &#34;Hello &#34; concatenated to the name you passed as attribute
 
 ## Install the Polymer-CLI
 
