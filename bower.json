@@ -1,6 +1,6 @@
 {
   "name": "hello-element",
-  "description": "pass a name in name attribute to this element and it will print &#34;Hello &#34; concatenated to the name you passed as attribute",
+  "description": "",
   "main": "hello-element.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
