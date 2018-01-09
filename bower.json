@@ -1,6 +1,6 @@
 {
   "name": "hello-element",
-  "description": "",
+  "description": "Description",
   "main": "hello-element.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
