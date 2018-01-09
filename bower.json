@@ -8,7 +8,8 @@
   "keywords": {
     "web-components",
     "web-component",
-    "polymer"
+    "polymer",
+    "paper"
   },
   "devDependencies": {
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
