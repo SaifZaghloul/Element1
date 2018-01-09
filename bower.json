@@ -5,6 +5,11 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.0"
   },
+  "keywords": {
+    "web-components",
+    "web-component",
+    "polymer"
+  },
   "devDependencies": {
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
     "web-component-tester": "Polymer/web-component-tester#^6.0.0",
